@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# DNU this .gitignore for future projects; it was created solely for the ‘GITIGNORE’ folder
+
+# misc
+/GITIGNORE
+
