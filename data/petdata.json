@@ -7,7 +7,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/cat-animal-animal-portrait-pet.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-animal-animal-portrait-pet.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "320"
 	},
@@ -20,7 +20,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "Baby Face is a sweet young kitty. She is still a little fearful of people and is reluctant to be picked up. She will sometimes come and roll over on your shoes, though. At mealtime she gets excited and will run around the house until you feed her. When she has her dinner, you can pet her all you want. Baby Face will sleep on your bed when it is her nap time and sometimes when you are in it, too.",
-		"animalPictures": [ "/img/kitties/cat-animal-cat-portrait-cat-s-eyes-122437.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-animal-cat-portrait-cat-s-eyes-122437.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "321"
 	},
@@ -33,7 +33,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "This is the cat that got it all started. We noticed this cat walking through the yard and wondered how anyone could let their pet just roam freely, especially such a beautiful cat. As weeks passed we noticed that the cat's tail was injured and as time passed it was getting shorter. We had to do something about it. Although Teddy was the reason that we started to do cat rescue, he was not the first cat that we rescued. When we did get Teddy, though, his tail was in bad shape and needed to be amputated. What you see in this picture is all there is, but Teddy gets along just fine, anyway. Teddy is a very affectionate cat, but makes himself known to other cats in the house. He loves to be petted and will bug you until you stroke him.",
-		"animalPictures": [ "/img/kitties/cat-animal-cat-portrait-mackerel.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-animal-cat-portrait-mackerel.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "324"
 	},
@@ -46,7 +46,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "This kitten was born on June 1 at the home of Tim and Linda, their mother May's foster parents.",
-		"animalPictures": [ "/img/kitties/cat-animal-eyes-grey-54632.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-animal-eyes-grey-54632.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "326"
 	},
@@ -59,7 +59,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "This kitten was born on June 1 at the home of Tim and Linda, their mother May's foster parents.",
-		"animalPictures": [ "/img/kitties/cat-eyes-angry-suspicious-1331821.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-eyes-angry-suspicious-1331821.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "327"
 	},
@@ -72,7 +72,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "This kitten was born on June 1 at the home of Tim and Linda, their mother May's foster parents.",
-		"animalPictures": [ "/img/kitties/cat-face-close-view-115011.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-face-close-view-115011.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "328"
 	},
@@ -85,7 +85,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "This kitten was rescued from the Bowie MARC Train Station on July 4, 1999.",
-		"animalPictures": [ "/img/kitties/cat-kitten-pets-tom-cat-161005.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-kitten-pets-tom-cat-161005.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "342"
 	},
@@ -98,7 +98,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "This kitten was rescued from the Bowie MARC Train Station on July 4, 1999.",
-		"animalPictures": [ "/img/kitties/cat-silhouette-cats-silhouette-cat-s-eyes.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-silhouette-cats-silhouette-cat-s-eyes.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "343"
 	},
@@ -111,7 +111,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/cat-sweet-kitty-animals-57416.jpg" ],
+		"animalPictures": [ "./img/kitties/cat-sweet-kitty-animals-57416.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "344"
 	},
@@ -124,7 +124,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/kitten-cat-fluffy-cat-cute-62321.jpg" ],
+		"animalPictures": [ "./img/kitties/kitten-cat-fluffy-cat-cute-62321.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "345"
 	},
@@ -137,7 +137,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-65006.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-65006.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "346"
 	},
@@ -150,7 +150,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "These two beautiful kitties have been adopted into loving homes.",
-		"animalPictures": [ "/img/kitties/pexels-photo-86243.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-86243.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "349"
 	},
@@ -163,7 +163,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "This beautiful kitty has been adopted into a loving home.",
-		"animalPictures": [ "/img/kitties/pexels-photo-96938.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-96938.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "350"
 	},
@@ -176,7 +176,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-127027.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-127027.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "351"
 	},
@@ -189,7 +189,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Lively, intelligent cat. He has some Oriental blood, because he is a highly mischeivous and sociable guy! Will follow you all over the place. Dennis loves to play with almost any cat toy as long as YOU are involved in the game. He gets along well with other cats but keeps them on-the-run because he ALWAYS is ready to play. Dennis will sit and sleep on your lap or alongside you once he gets tired, though. He likes to be petted while you hold him. Dennis has beautiful green eyes, and a triangular shape to his head, along with a lustrous, solid grey coat. He would love to decorate your house for a long time, and will tell you how grateful he is every minute.",
-		"animalPictures": [ "/img/kitties/pexels-photo-127028.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-127028.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "387"
 	},
@@ -202,7 +202,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "I'm a sweetie-pie. Sleek, solid black, with gorgeous gold eyes, I love to play, as you can see, with toys on sticks! I'm great with other cats, and will cuddle with you occasionally, and just adore you for giving me a wonderful home...",
-		"animalPictures": [ "/img/kitties/pexels-photo-137049.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-137049.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "393"
 	},
@@ -215,7 +215,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Can you tell why I'm named Fluffy? I'm a medium-long haired kitty, that's why! I'm sweet, and mellow, and a beautiful kitty who needs a little extra attention to grooming, to keep my coat looking its best and help avoid matts. Matts really HURT a kitty, so we want to be brushed regularly and not get any. I am good with other cats. I have just a blaze of white at my throat. I'm a kind of a \"warm black\" cat, too. In some lights my coat looks very, very dark chocolate. My eyes are golden. Wouldn't you love to have me share your home?",
-		"animalPictures": [ "/img/kitties/pexels-photo-141496.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-141496.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "394"
 	},
@@ -228,7 +228,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "I'm quirky but beautiful. You see, I have a wonderful bicolor black and white coat, and big, yellow eyes. I have a short tail, that you'd think was a result of an injury -- but it's not, that's how I was born. I can still balance just fine, though. And I'm very perky and playful. I get along very well with other cats, and like playing with feather toys or chasing balls with pellets inside them, or just watching birds and squirrels out the windows. I also love attention. Won't you take me home and give me lots of love forever?",
-		"animalPictures": [ "/img/kitties/pexels-photo-156934.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-156934.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "395"
 	},
@@ -241,7 +241,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "I'm positively beautiful, everyone always ooh!s and aah!s over me at shows. I have clear blue eyes, and my tail, and two patches (one on my head and one on my right side) of grey tabby! That's why it LOOKS as though my tail isn't there, in the picture! I like to be the boss kitty, but I get along well with other cats so long as they KNOW I'm the boss! I am very sweet and affectionate.",
-		"animalPictures": [ "/img/kitties/pexels-photo-171227.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-171227.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "397"
 	},
@@ -254,7 +254,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "I'm a red tabby and white guy. I'm really cute, and very inquisitive. I like to know what is going on everywhere. I'll probably be a great Butler for someone soon. I have yellow eyes, and like to play. I'm great with other cats too.",
-		"animalPictures": [ "/img/kitties/pexels-photo-192384.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-192384.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "417"
 	},
@@ -267,7 +267,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Stevie has been looking for the right person for some time. He is very concerned about the goings-on in the household, and would like to be able to help someone keep their life on track! Although he is not a large cat, Stevie seems to command respect from other cats. He likes to sleep in his favorite spot right next to you. And he absolutely adores playing with stick toys, with, or without, his littermates or another cat or two.",
-		"animalPictures": [ "/img/kitties/pexels-photo-209037.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-209037.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "418"
 	},
@@ -280,7 +280,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "I'm a dilute Calico cutie! I'm a young female cat, and one of my ears is a little folded over -- just at the tip. I wanted to see what being a Scottish Fold is like, and then I kept just a slight reminder of it! I am sweet and pretty and playful. I play very well with other cats, and have plenty of energy for games with stick toys or Cat Dancers. I am mostly white, with yellow eyes, and blue and beige patches in my dilute calico coat. Please won't you open your home to me?",
-		"animalPictures": [ "/img/kitties/pexels-photo-209117.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-209117.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "420"
 	},
@@ -293,7 +293,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "I am a pretty mixed Calico. My gold and black patches are tabby patterned! I'm VERY pretty. I have dark green eyes and kind of like to stare at you and contemplate things. I'm really quite a thoughtful cat for a young one! I have a brown nose -- sort of unusual for a Calico, but my entire face is rather darker-colored than some. But I'm more than pretty, I am very affectionate, too. I like to sleep with you, snuggled right up against you. I get along very well with other cats. I like to play games where I bat little balls around the hallways and chase after them. I also enjoy playing with feathers-on-sticks and toys like that, where you and I play together. I am a quiet little cat, and I would just love a home like yours to call my own!",
-		"animalPictures": [ "/img/kitties/pexels-photo-209800.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-209800.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "421"
 	},
@@ -306,7 +306,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "I'm aloof, a real \"cat-like\" cat. I'm adorable! But I have some kitten craziness, too! I'm a gorgeous silver tabby and white cat, with yellow eyes. I'm very alert and a little on the shy side. I like to run fast and play, and once I'm tired out I'll hang out and lie around with my people. I get along well with other cats, and I'm very curious. I have a really cute pink nose, too. Could we be best friends?",
-		"animalPictures": [ "/img/kitties/pexels-photo-248280.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-248280.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "422"
 	},
@@ -319,7 +319,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 3 Months",
 		"animalDescriptionPlain": "Notes: Sadie is ever so patient. She is such a sweetheart, but she knows she'll need to wait for a very special home. She'll need a home with another dog. She'd like a home where things follow a routine, and don't change a lot. She'd be happy with children, as long as the children were loving and patient with her. Sadie needs a special home, because she seems to be blind. This makes life a little more challenging for her, but otherwise she is a normal, loving, affectionate dog. Sadie would be a wonderful family member. She's a nice size and has a beautiful coat. She, and her good friend, Katie the Chocolate Lab, were cared for by an elderly man. The man's family felt that he could no longer adequately care for the pair, so they surrendered the girls to ARF. Katie has found her new home, and Sadie has made new friends in her foster home, but she still longs for that one on one companionship. She's probably around 6 years old and very healthy. Please consider bringing Sadie into your home and hearts. She won't need to see your love... just feel it.",
-		"animalPictures": [ "/img/doggies/wildlife-photography-pet-photography-dog-animal-159541.jpg" ],
+		"animalPictures": [ "./img/doggies/wildlife-photography-pet-photography-dog-animal-159541.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "502"
 	},
@@ -332,7 +332,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Somewhat shy, but playful and a very sweet kitten. Will do best in a calm environment, preferably without small children, but will be happy to have some other cat(s) around to play with.",
-		"animalPictures": [ "/img/kitties/pexels-photo-256632.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-256632.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "503"
 	},
@@ -345,7 +345,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Maddy is a return adoption. Originally, she was a \"friend's\" dog. The friend didn't care for her properly, so the person brought her to ARF. She spent a couple months with ARF waiting for her new home. Finally, that home came along, only to be short-lived. Apparently, she didn't bond with the man's daughters like he hoped she would, so her brought her back. Maddy is a sensitive dog, but very loving. She'd love a patient owner with time to spend with her one on one. She's good with other dogs is fine with children. Please don't make her wait another couple of months for her PERMANENT home!!",
-		"animalPictures": [ "/img/doggies/puppy-dog-shepherd-cute-160962.jpg" ],
+		"animalPictures": [ "./img/doggies/puppy-dog-shepherd-cute-160962.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "504"
 	},
@@ -358,7 +358,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Hope is a larger Beagle. She is beautiful and very demure. She is affectionate, yet playful. She just needs someone to give her attention and pampering.",
-		"animalPictures": [ "/img/doggies/pexels-photo-2174209.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-2174209.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "505"
 	},
@@ -371,7 +371,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Sandy was a stray found wandering with two puppies. She is dark red with a black saddle marking. Unlike other Hounds that seem to be more interested in hunting, she is really affectionate towards people and loves the attention she gets. She is about 2-3 years old.",
-		"animalPictures": [ "/img/doggies/pexels-photo-2027104.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-2027104.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "506"},
 
@@ -383,7 +383,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 9 Months",
 		"animalDescriptionPlain": "Lady is a dainty little beagle with a big heart. She is a little shy, but loves to be held and cuddled. She's a young lady looking for a warm lap and a big heart. She'll make a fine companion for any loving family.",
-		"animalPictures": [ "/img/doggies/pexels-photo-2023386.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-2023386.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "508"
 	},
@@ -396,7 +396,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 5 Months",
 		"animalDescriptionPlain": "She is a good natured pup with a heart of gold. She'll make a wonderful companion, but will need a care-giver who is familiar with a Shar-Pei's independent nature.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1750380.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1750380.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "511"
 	},
@@ -409,7 +409,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Acrhie is a beautiful dog. He looks much like an American Eskimo, but with slight traces of Tan here and there. He is a loving, housebroken, neutered, good natured lap dog. However, Archie is not comfortable around children under 12.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1750378.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1750378.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "512"
 	},
@@ -422,7 +422,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 5 Months",
 		"animalDescriptionPlain": "Probably have a little Collie mixed in as well. Very good natured, and growing FAST! One female has the markings of a Tri-Color Fox Terrier. She has short hair. The second female is Black and White, and looks like your typical Lab Mix with short black hair. The third female is Black and White, but has longer hair like a Border Collie. Very cute!",
-		"animalPictures": [ "/img/doggies/pexels-photo-1718181.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1718181.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "513"
 	},
@@ -435,7 +435,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Dave and Dolly are brother and sister. They are about 10 months old. They are a delightful and loving pair. They are a little shy, but really just need time to settle in. No, they don't have to stay together, but it would be nice to see them go to the same loving home as they seem quite bonded with each other. Taking on two dogs at once is tough, but this pair would promise you double the love in return! Dave is about 35 lbs, so he could lose a few. Dolly is about 30 lbs herself, but is quite trim. They almost look like twins!",
-		"animalPictures": [ "/img/doggies/pexels-photo-1586948.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1586948.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "515"
 	},
@@ -448,7 +448,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Dave and Dolly are brother and sister. They are about 10 months old. They are a delightful and loving pair. They are a little shy, but really just need time to settle in. No, they don't have to stay together, but it would be nice to see them go to the same loving home as they seem quite bonded with each other. Taking on two dogs at once is tough, but this pair would promise you double the love in return! Dave is about 35 lbs, so he could lose a few. Dolly is about 30 lbs herself, but is quite trim. They almost look like twins!",
-		"animalPictures": [ "/img/doggies/pexels-photo-1582835.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1582835.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "516"
 	},
@@ -461,7 +461,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Kelly is a beautiful dog. She's about the size of a large Lab. Her coat is a cinnamon color, and she is probably some sort of Shepherd/Lab mix. She resembles and Anatolian Shepherd. She is good nautured and friendly, and was well taken care of despite the fact that her family decided to give her up. She's looking for a wonderful family to call her own for the rest of her life. She's only about 10 months old and already knows a few basic commands.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1485802.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1485802.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "518"
 	},
@@ -474,7 +474,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 9 Months",
 		"animalDescriptionPlain": "Blondie is a return adoption. She was returned because her previous owner had other family members move in and Blondie was not getting along with the small child. It's hard to tell what breed mix Blondie is. She is so petite and fine boned, she almost looks like she's got some sort of sighthound in her, but those floppy ears are nothing but Beagle! She is such a little doll though, and we can tell that she'd love some pampering.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1485726.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1485726.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "519"
 	},
@@ -487,7 +487,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 9 Months",
 		"animalDescriptionPlain": "Jewel is a beautiful dog. Because of her gorgeous liver and white coat, though short, we think she may have a bit of Spaniel in her. Her body may be some sort of Bully Breed, but it is hard to tell. She has a wonderful personality and with a little basic training she'll be a wonderful life-long companion. She's about 7 months old.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1480916.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1480916.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "520"
 	},
@@ -500,7 +500,7 @@
 		"animalColor": "Orange",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "James is a Buff DSH tabby who is 2 years old. Laid back and affectionate.",
-		"animalPictures": [ "/img/kitties/pexels-photo-257532.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-257532.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "521"
 	},
@@ -513,7 +513,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 9 Months",
 		"animalDescriptionPlain": "She's about 8 months old, and was dumped at one of our foster parent's homes with 4 other younger kittens. She is not the mother of these kittens, however. She is a shorthaired brown tabby. She is a very nice cat and needs a home of her own and someone to love her.",
-		"animalPictures": [ "/img/kitties/pexels-photo-271955.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-271955.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "524"
 	},
@@ -526,7 +526,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Monty is about 1 year old. She is an Am Staff and something else, we are not sure what. She was initially adopted from a shelter. The couple that adopted her did not have the time for her and needed to give her up. She is housebroken and does well with other dogs. She has not yet met any cats. She is a high energy dog that is also very sweet. If interested please come see her at our adoption day or email for more info.NOTE: Monty is not wearing a muzzle. She has no need for one. However, what she is sporting is called a Halti-Lead. This helps her learn how to NOT pull when being walked.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1464518.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1464518.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "525"
 	},
@@ -539,7 +539,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Large female Doberman. Good natured.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1407718.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1407718.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "527"
 	},
@@ -552,7 +552,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Mostly Cream colored, with some patches of darker Apricot.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1366529.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1366529.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "528"
 	},
@@ -565,7 +565,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/pexels-photo-1322182.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1322182.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "529"
 	},
@@ -578,7 +578,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Nice size, scruffy, but adorable coat, good natured. Has that typical terrier personality that can be put to good use as an alarm dog, and a performance dog. Taffy is a sweetie, and enjoys affection, but she'll need some activities to keep her happy.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1308978.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1308978.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "530"
 	},
@@ -591,7 +591,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 11 Months",
 		"animalDescriptionPlain": "Penny is a little lady. She's calm, affectionate, and sweet. She has a beautiful coat and a lean body. She'd love to learn some active tricks, and how to snuggle in next to a loving care-giver.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1234097.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1234097.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "532"
 	},
@@ -604,7 +604,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "Very pretty lady. Fun-loving and affectionate. Great with other dogs and kids.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1188395.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1188395.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "534"
 	},
@@ -617,7 +617,7 @@
 		"animalColor": "Gray",
 		"animalAgeString": "1 Year 6 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-290164.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-290164.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "538"
 	},
@@ -630,7 +630,7 @@
 		"animalColor": "Orange",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-368890.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-368890.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "539"
 	},
@@ -643,7 +643,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "Bailey is a nice little black with white 40 pound dog. He was given up by his owner because their landlords changed their minds about tennants having pets. He is unsure around men, so he needs to be in a home with no men. He is not aggressive, but is terrified, so he needs a man free home : ) He does love other dogs, kids, and cats. Bailey needs a permanent home with a care-giver full of love and patience.Please call 301-866-0303 to schedule an appointment to meet Bailey.",
-		"animalPictures": [ "/img/doggies/pexels-photo-1174166.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-1174166.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "548"
 	},
@@ -656,7 +656,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Barney's owner had to have surgery, so Barney no longer could receive the care he needed. A kind person brought him to ARF. He's still a young fellow, and is working on his social graces. He's a good boy, though, and would love to be part of most any family.",
-		"animalPictures": [ "/img/doggies/pexels-photo-981062.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-981062.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "549"
 	},
@@ -669,7 +669,7 @@
 		"animalColor": "",
 		"animalAgeString": "2 Years 1 Month",
 		"animalDescriptionPlain": "Bunny is a Scottie mix. She is blackish grey in color and is about 7 years old. She is house broken and good with kids, cats and other dogs. She was given up by her owners becasue their landlords decided to change their minds about tennants having pets. She is a very sweet high energy little dog.A Happy Ending from Bunny's Adoptive FAMILY: Just had to share this - I walked down to Char's yesterday andtook Hoppy(off leash) and Bunny(on leash) with me. Char was working in theyard and we visited a while and sat on her bench - Hoppy between us andBunny in my lap. It was getting cool so I said \"Let's go doggies\" andstarted to leave. Hoppy reached up and took Bunny's leash away from me andstarted down the drive with Bunny in to tow, her little short legs going ashard as they could. Char and I were laughing so hard we could hardly standup! So I said \"Take her home, Hop\" and down the street he went- stopped atour gate - I opened it and he took her all the way to the front door, Whatmade it even funnier was that both dogs acted as if they had been doingthis for years!",
-		"animalPictures": [ "/img/doggies/pexels-photo-980454.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-980454.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "551"
 	},
@@ -682,7 +682,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/pexels-photo-928449.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-928449.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "552"
 	},
@@ -695,7 +695,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "Kiya is a beautiful Husky. She is a real sweetheart that needs a permanent home of her own. She has a lot of love to give.",
-		"animalPictures": [ "/img/doggies/pexels-photo-911808.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-911808.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "554"
 	},
@@ -708,7 +708,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/pexels-photo-879788.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-879788.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "555"
 	},
@@ -721,7 +721,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "We are only guessing at her breed by what you may see when you first glance at her. We really have no idea : ) She is a sweet girl and appears to be crate trained. She is a little overweight. She is a dark brindle color and has long hair. She is apporximately 5 years old.",
-		"animalPictures": [ "/img/doggies/pexels-photo-840326.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-840326.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "556"
 	},
@@ -734,7 +734,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 4 Months",
 		"animalDescriptionPlain": "Ohbee is a beautiful gold and white American Staffordshire Terrier. She was adopted as a puppy and the people returned her because she was too much for them to handle. She does need some work with her training and social graces, but she is a sweetheart and loves everyone. She would most likely be better with someone familiar with the breed to be able to manage her energy properly. She gets along with other dogs and people.",
-		"animalPictures": [ "/img/doggies/pexels-photo-786773.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-786773.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "557"
 	},
@@ -747,7 +747,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Chelsie is a big love bug. She is approximately 2 years old and is black in color. She is taller than a typical Lab and is lankier also. We are not sure what else might be in this mix. She is calm and good natured. She will patiently lie at your feet, and walks well on her leash.",
-		"animalPictures": [ "/img/doggies/pexels-photo-672244.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-672244.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "558"
 	},
@@ -760,7 +760,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "Nacho is brown and black and looks like hound in his coloring. He is built more like a Pointer though. He is a sweet boy and loves to play. He is a big puppy. We think he is about 2 years old. He's a happy boy on the submissive side, but very gregarious. Just a good ol' dog looking for a loving caregiver.",
-		"animalPictures": [ "/img/doggies/pexels-photo-668004.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-668004.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "559"
 	},
@@ -773,7 +773,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 6 Months",
 		"animalDescriptionPlain": "Kevin is about 5 months old. He was found as a stray wandering in the road. He is yellow in color and has some Dane like qualities. He is a very sweet, big boy.",
-		"animalPictures": [ "/img/doggies/pexels-photo-666870.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-666870.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "570"
 	},
@@ -786,7 +786,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Lilly is a brown and white 4 year old Rat Terrier. She is housebroken and good with children. Her owners turned her into the shelter because they now have allergies to her. She is a sweet little dog, but we think she is still depressed not being with her owners. She loves to go for truck rides and walks around the parking lot at Walmart looking at the flowers in the garden section.",
-		"animalPictures": [ "/img/doggies/pexels-photo-612813.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-612813.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "571"
 	},
@@ -799,7 +799,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Vincent was passed from home to home recently. A person felt his original owner was cruel, so they offered to take him in, then couldn't keep him, so they passed him to another person, who couldn't keep him either, so he ended up with us here at ARF. He's a sweet fellow who needs some TLC. He might need someone with him during the day. He'd make a loving family companion, as he's long awaited for loving arms.Vincent is back again. He is NOT a bad dog, he just seems to be an unlucky one as he can't seem to find a permanent home. He's such a patient guy though, and knows that his loving lap is out there somewhere. DO NOT APPLY for Vincent unless you can keep him for the rest of his life NO MATTER WHAT! ;)",
-		"animalPictures": [ "/img/doggies/pexels-photo-594687.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-594687.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "656"
 	},
@@ -812,7 +812,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 7 Months",
 		"animalDescriptionPlain": "Was adopted around Christmas as a kitten. She was returned because she had worms. She has now been treated and is worm-free and healthy. She's a beautiful young kitty who needs a loving and permanent family.",
-		"animalPictures": [ "/img/kitties/pexels-photo-416088.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-416088.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "659"
 	},
@@ -825,7 +825,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Clifford is a BIG RED (well reddish brown) dog. He's a beautiful dog with a heart as big as his girth. He was a stray who was hit by an Ice Cream Truck. Luckily, no damage was done to either. So, this Ice Cream loving pup just needs a new home with lots of patience. He could use a few social graces, but would be a dedicated companion to any family.",
-		"animalPictures": [ "/img/doggies/pexels-photo-551628.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-551628.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "660"
 	},
@@ -838,7 +838,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "She's a sweet girl who is docile and loving. She's knows some basic commands and walks well on a leash. Would be a great \"first dog\" for a nice family or single person. She might prefer to be an only dog, just because she loves people so much.",
-		"animalPictures": [ "/img/doggies/pexels-photo-544269.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-544269.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "661"
 	},
@@ -851,7 +851,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 8 Months",
 		"animalDescriptionPlain": "Sally is a pretty little beagle. She was given to ARF because the famiy was having a baby and felt that caring for a dog would be too much. She is a good girl though and would do well with most any family.",
-		"animalPictures": [ "/img/doggies/pexels-photo-460823.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-460823.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "662"
 	},
@@ -864,7 +864,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 7 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-416160.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-416160.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "663"
 	},
@@ -877,7 +877,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 7 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-460797.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-460797.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "664"
 	},
@@ -890,7 +890,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 5 Months",
 		"animalDescriptionPlain": "Pretty little girl. Calm, reserved, ready to be loved and given lots of TLC.",
-		"animalPictures": [ "/img/doggies/pexels-photo-356378.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-356378.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "666"
 	},
@@ -903,7 +903,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "Cute and Cuddley. Beagles make excellent pets! Beagles are small, short-haired, and very trainable. They often have thier nose to the ground, so it is recommended to keep them leashed or fenced. There are 2 Males and 1 Female. They are 8 weeks old and have been well socialized.",
-		"animalPictures": [ "/img/doggies/pexels-photo-333083.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-333083.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "691"
 	},
@@ -916,7 +916,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "This is the only pup left from a litter of 12! Very sweet, and will be very smart when grown.",
-		"animalPictures": [ "/img/doggies/pexels-photo-298062.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-298062.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "693"
 	},
@@ -929,7 +929,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Little black puff balls! 1 Black with White and 2 Black with Brown. 8 weeks old, and ready for fun. We prefer to adopt these pups to families with no children or children over 5.",
-		"animalPictures": [ "/img/doggies/pexels-photo-257540.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-257540.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "694"
 	},
@@ -942,7 +942,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Cute and Cuddley. Beagles make excellent pets! Beagles are small, short-haired, and very trainable. They often have thier nose to the ground, so it is recommended to keep them leashed or fenced. There are 2 Males and 1 Female. They are 8 weeks old and have been well socialized.",
-		"animalPictures": [ "/img/doggies/pexels-photo-257519.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-257519.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "818"
 	},
@@ -955,7 +955,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Cute and Cuddley. Beagles make excellent pets! Beagles are small, short-haired, and very trainable. They often have thier nose to the ground, so it is recommended to keep them leashed or fenced. There are 2 Males and 1 Female. Scooby is now about 14 weeks old.",
-		"animalPictures": [ "/img/doggies/pexels-photo-248307.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-248307.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "819"
 	},
@@ -968,7 +968,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Holly came to us around Christmas time. She was featured as our \"Poster Dog\" in our local paper and found a home shortly after the holidays. Unfortunately, that home has been short-lived. Her brief owners now claim they are moving and can't take her with them. It is just a reminder that people should NOT adopt animals unless they know their lives are stable! Holly is a gem of a dog. She is stunnigly beautiful, and is most likely an American Bulldog Mix. She is smart and very affectionate. Please consider bringing Holly into your life only if you can make her a permanent member of your family.",
-		"animalPictures": [ "/img/doggies/pexels-photo-248273.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-248273.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "820"
 	},
@@ -981,7 +981,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-479009.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-479009.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "821"
 	},
@@ -994,7 +994,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 5 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/pexels-photo-235805.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-235805.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "822"
 	},
@@ -1007,7 +1007,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-596590.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-596590.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "868"
 	},
@@ -1020,7 +1020,7 @@
 		"animalColor": "Black",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "Very maternal and sweet. A real affectionate kitty.",
-		"animalPictures": [ "/img/kitties/pexels-photo-615369.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-615369.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "871"
 	},
@@ -1033,7 +1033,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "Edgar is a sweetie pie that loves being brushed and cuddling : )&nbsp; He is a super laid back and is a chill guy that will sit in your lap while you are on the computer or cuddle with you while you take a nap.",
-		"animalPictures": [ "/img/kitties/pexels-photo-730896.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-730896.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "872"
 	},
@@ -1046,7 +1046,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-731553.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-731553.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "873"
 	},
@@ -1059,7 +1059,7 @@
 		"animalColor": "Orange",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Bobtail",
-		"animalPictures": [ "/img/kitties/pexels-photo-736530.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-736530.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "874"
 	},
@@ -1072,7 +1072,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "Bobtail",
-		"animalPictures": [ "/img/kitties/pexels-photo-774731.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-774731.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "875"
 	},
@@ -1085,7 +1085,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "Moochie is a very sweet, very playful kitty with unusal markings. She would be a loving and entertaining addition to any family.",
-		"animalPictures": [ "/img/kitties/pexels-photo-923360.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-923360.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "876"
 	},
@@ -1098,7 +1098,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year",
 		"animalDescriptionPlain": "Grey with white feet.",
-		"animalPictures": [ "/img/kitties/pexels-photo-1022158.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-1022158.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "877"
 	},
@@ -1111,7 +1111,7 @@
 		"animalColor": "",
 		"animalAgeString": "",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-1056251.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-1056251.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "878"
 	},
@@ -1124,7 +1124,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 2 Months",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/kitties/pexels-photo-1276553.jpg" ],
+		"animalPictures": [ "./img/kitties/pexels-photo-1276553.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "879"
 	},
@@ -1137,7 +1137,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/pexels-photo-130763.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-130763.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "880"
 	},
@@ -1150,7 +1150,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 10 Months",
 		"animalDescriptionPlain": "Very Sweet and mellow gal. Just a doll. Was given up with two other dogs because her owner needed to be hospitalized. Ruffi is a calm, lay-at-your-feet kind of dog. She is incredibly docile and loving. She rides well in the car and walks well on a leash. She is fine around other dogs, and would most likey be safe around cats. She'd also be a loving addition to a family with children. She still has a lot of life left in her, so don't let her age deter your considertion.",
-		"animalPictures": [ "/img/doggies/pexels-photo-119592.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-119592.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "881"
 	},
@@ -1163,7 +1163,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/pexels-photo-97863.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-97863.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "885"
 	},
@@ -1176,7 +1176,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/pexels-photo-69372.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-69372.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "886"
 	},
@@ -1189,7 +1189,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/pexels-photo-59523.jpg" ],
+		"animalPictures": [ "./img/doggies/pexels-photo-59523.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "887"
 	},
@@ -1202,7 +1202,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/french-bulldog-summer-smile-joy-160846.jpg" ],
+		"animalPictures": [ "./img/doggies/french-bulldog-summer-smile-joy-160846.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "888"
 	},
@@ -1215,7 +1215,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/dog-young-dog-small-dog-maltese.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-young-dog-small-dog-maltese.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "889"
 	},
@@ -1228,7 +1228,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "One of 6 Beagle Mix pups who came from a shelter in DC. 9 weeks old as of 6/5/04. Outgoing, cuddley and ready to learn and love!",
-		"animalPictures": [ "/img/doggies/dog-yorkshire-terrier-lazy-dog-portrait-64724.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-yorkshire-terrier-lazy-dog-portrait-64724.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "890"
 	},
@@ -1241,7 +1241,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She'll be available for adoption in a few weeks. Her 9 pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 8 weeks old as of 6/5/04.",
-		"animalPictures": [ "/img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-163685.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-163685.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "891"
 	},
@@ -1254,7 +1254,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She is also available for adoption. Her pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 4.5 months old as of 8/21.",
-		"animalPictures": [ "/img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-162356.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-162356.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "892"
 	},
@@ -1267,7 +1267,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She'll be available for adoption in a few weeks. Her 9 pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 8 weeks old as of 6/5/04.",
-		"animalPictures": [ "/img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-162329.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-puppy-yorkshire-terrier-yorkshire-terrier-puppy-162329.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "893"
 	},
@@ -1280,7 +1280,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She'll be available for adoption in a few weeks. Her 9 pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 8 weeks old as of 6/5/04.",
-		"animalPictures": [ "/img/doggies/dog-puppy-tumblr-puppylove.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-puppy-tumblr-puppylove.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "894"
 	},
@@ -1293,7 +1293,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "well, since the API didn't provide any description of me I'll just have to do it myself! I'm the cutest little cutie-pie in a world of cutie-pies, and you really oughta stop whatever you're doing and adopt the heck outta me right now!",
-		"animalPictures": [ "/img/doggies/dog-hybrid-funny-pet-144246.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-hybrid-funny-pet-144246.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "897"
 	},
@@ -1306,7 +1306,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She'll be available for adoption in a few weeks. Her 9 pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 8 weeks old as of 6/5/04.",
-		"animalPictures": [ "/img/doggies/dog-hovawart-black-pet-89775.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-hovawart-black-pet-89775.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "898"
 	},
@@ -1319,7 +1319,7 @@
 		"animalColor": "",
 		"animalAgeString": "1 Year 1 Month",
 		"animalDescriptionPlain": "These are Clara's pups. Clara is a beautiful, young, good-natured Hound. She is also available for adoption. Her pups are very much like her, and are all playful and outgoing. They are ready to learn and love! About 4.5 months old as of 8/21.",
-		"animalPictures": [ "/img/doggies/dog-cavalier-king-charles-spaniel-funny-pet-162193.jpg" ],
+		"animalPictures": [ "./img/doggies/dog-cavalier-king-charles-spaniel-funny-pet-162193.jpg" ],
 		"animalAdoptionFee": "",
 		"animalID": "899" }
 

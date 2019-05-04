@@ -26,8 +26,8 @@ header {
 	height: 90px;
 	background-color: #fff;
 	background-image:
-		url("/img/whiskers_300x90.png"),
-		url("/img/doggie_300x90.png");
+		url("../img/whiskers_300x90.png"),
+		url("../img/doggie_300x90.png");
 	background-position: left center, right center;
 	background-size: 210px, 210px;
 	background-repeat: no-repeat;
@@ -146,7 +146,8 @@ ul#pet-list {
 	margin-bottom: .3rem;
 	text-align: center;
 }
-@media screen and (min-width: 1050px) {
+
+@media screen and (min-width: 980px) {
 	#pet-details .summary p { width: 50%; }
 	#pet-details .summary p:nth-child(odd) { text-align: left; }
 	#pet-details .summary p:nth-child(even) { text-align: right; }

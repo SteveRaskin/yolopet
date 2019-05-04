@@ -41,8 +41,8 @@ fetch("./data/petdata.json")
 			petDetails.classList = "in";
 			petDetails.innerHTML = `
 				<img
-					src=${ obj.animalPictures[0] }
-					alt='${ obj.animalName }' />
+					src="${ obj.animalPictures }"
+					alt="${ obj.animalName }" />
 				<div class="summary">
 					<p class="animal-name">name: <span>${ obj.animalName }</span></p>
 					<p class="animal-sex">sex: <span>(${ obj.animalSex === "Male" ? "M" : "F" })</span></p>
