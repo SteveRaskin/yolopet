@@ -34,4 +34,10 @@ NOTES:
 i) in lieu of displaying the animal's type/species in the detail view, a large, high-rez image is displayed
 ii) the pet list can be navigated using the tab key; both 'enter' key and spacebar should select the focused pet for display
 
+iii) re: x-device responsiveness, per 2019.05.04 12p revisions:
+
+	- Phone: the app should be usable in both portrait and landscape. In phone/portrait, netiher (bg) images nor animal age are displayed in the list. In landscape, depending on screen size, both thumbnail images and age are displayed.
+	
+	- I presently have no tablet on which to test; testing in browser simulator however both portrait and landscape should display scaled versions of the full features.
+
 

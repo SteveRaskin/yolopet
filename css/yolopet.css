@@ -17,36 +17,48 @@ body {
 
 header {
 	position: fixed;
+	left: 0;
 	top: 0;
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: center;
 	align-items: center;
 	width: 100%;
-	height: 90px;
+	height: 12vw;
 	background-color: #fff;
 	background-image:
 		url("../img/whiskers_300x90.png"),
 		url("../img/doggie_300x90.png");
-	background-position: left center, right center;
-	background-size: 210px, 210px;
+	/* background-position: left center, right center; */
+	background-position: .45rem center, calc(100% - .45rem) center;
+	background-size: 21.6vw;
 	background-repeat: no-repeat;
 }
-
 header h1 {
 	font-family: 'Shadows Into Light Two', cursive;
-	font-size: 3rem;
+	font-size: 4.8vw;
 	font-weight: 100;
 	letter-spacing: .15rem;
 	word-spacing: -0.3rem;
 }
+@media screen and (min-width: 990px) {
+	header {
+		height: 90px;
+		background-size: 180px, 180px;
+		background-position: 1.5rem center, calc(100% - 1.5rem) center;
+	}
+	header h1 { font-size: 3rem; }
+}
 
 main {
-	margin-top: 90px; /* header height */
 	display: flex;
+	margin-top: 11.1vw;
 	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: flex-start;
+}
+@media screen and (min-width: 990px) {
+	main { margin-top: 90px; }
 }
 
 h3 {
@@ -54,7 +66,7 @@ h3 {
 	margin-bottom: .9rem;
 	padding: .9rem;
 	text-align: center;
-	font-size: 1.2rem;
+	font-size: 2.7vw;
 	font-weight: bold;
 	line-height: 1.5;
 	background: #b41e5a;
@@ -62,14 +74,23 @@ h3 {
 	border-radius: 3px;
 }
 h3 span {
-	font-size: 1.11rem;
+	font-size: 2.7vw;
 	font-weight: normal;
+}
+/* ball-park: my droid @ landscape @ 684px */
+@media screen and (min-width: 684px) {
+	h3 { font-size: 2.4vw; }
+	h3 span { font-size: 2.1vw; }
+}
+@media screen and (min-width: 840px) {
+	h3 { font-size: 1.2rem; }
+	h3 span { font-size: .99rem; }
 }
 
 
 /* ======================== PET LIST ======================== */
 #pet-list-wrapper {
-	width: 21rem;
+	width: 10.5rem;
 	margin-bottom: 1.5rem;
 }
 
@@ -82,18 +103,18 @@ ul#pet-list {
 
 #pet-list li {
 	direction: ltr;
+	height: 1.8rem;
+	margin-bottom: 1px;
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: flex-start;
 	align-items: center;
-	height: 3rem;
-	margin-bottom: 1px;
-	padding-left: 6.3rem;
+	font-size: .9rem;
 	overflow: hidden;
 	cursor: pointer;
 	background-repeat: no-repeat;
 	background-size: 6rem 3rem;
-	background-position: .3rem 0;
+	background-position: -999rem;
 	border-bottom: 1px solid #f0f0f0;
 }
 
@@ -104,17 +125,36 @@ ul#pet-list {
 	background: #00ae4d;
 	background-repeat: no-repeat;
 	background-size: 6rem 3rem;
-	background-position: .3rem 0;
+	background-position: -999rem;
 }
 
 #pet-list span { padding-left: .6rem; }
 #pet-list .animal-name {}
 #pet-list .animal-sex { font-weight: 600; }
-#pet-list .animal-age { text-transform: lowercase; font-style: italic; }
 
+#pet-list .animal-age {
+	display: none;
+	text-transform: lowercase;
+	font-style: italic;
+}
+
+
+@media screen and (min-width: 684px) {
+	#pet-list-wrapper { width: 21rem; }
+	#pet-list li {
+		height: 3rem;
+		padding-left: 6.3rem;
+		font-size: .99rem;
+		background-position: .3rem 0;
+	}
+	#pet-list li:hover,
+	#pet-list li:active,
+	#pet-list li:focus { background-position: .3rem 0; }
+	#pet-list .animal-age { display: inline-block; }
+} /* MQ */
 
 /* ======================== PET DETAILS ======================== */
-#pet-details-wrapper { width: calc(100% - 21rem); }
+#pet-details-wrapper { width: calc(100% - 11.1rem); }
 
 #pet-details {
 	max-width: 600px;
@@ -139,20 +179,13 @@ ul#pet-list {
 	flex-flow: row wrap;
 	justify-content: center;
 	max-width: 600px;
-	font-size: 1.11rem;
+	font-size: .9rem;
 }
 #pet-details .summary p {
 	width: 100%;
 	margin-bottom: .3rem;
 	text-align: center;
 }
-
-@media screen and (min-width: 980px) {
-	#pet-details .summary p { width: 50%; }
-	#pet-details .summary p:nth-child(odd) { text-align: left; }
-	#pet-details .summary p:nth-child(even) { text-align: right; }
-}
-
 #pet-details .summary span { font-weight: bold; color: #00ae4d; }
 #pet-details .summary p.animal-species { display: none; }
 #pet-details .summary p.animal-description {
@@ -160,7 +193,58 @@ ul#pet-list {
 	margin: .9rem 0 0;
 	padding: .9rem;
 	text-align: left;
+	line-height: 1.5;
 	background: #666;
 	color: #fff;
 	border-radius: 3px;
 }
+
+@media screen and (min-width: 684px) {
+	#pet-details-wrapper { width: calc(100% - 21rem); }
+	#pet-details .summary { font-size: .99rem; }
+}
+
+@media screen and (min-width: 780px) {
+	#pet-details .summary p { width: 50%; }
+	#pet-details .summary p:nth-child(odd) { text-align: left; }
+	#pet-details .summary p:nth-child(even) { text-align: right; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  */
