@@ -41,3 +41,4 @@ iii) re: x-device responsiveness, per 2019.05.04 12p revisions:
 	- I presently have no tablet on which to test; testing in browser simulator however both portrait and landscape should display scaled versions of the full features.
 
 
+live demo: http://outtolaunch.com/dev/codesamples/yolopet/index.html
