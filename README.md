@@ -1,6 +1,6 @@
 ### About YOLO Pet
 
-YOLO Pet is an application which displays a list of adoptable pets and displays details of a selected pet. The application is a response to front-end engineering challenge from REZI.
+YOLO Pet is an application which displays a list of adoptable pets and displays details of a selected pet. The application is a response to front-end engineering challenge from [###].
 
 The challenge:
 
